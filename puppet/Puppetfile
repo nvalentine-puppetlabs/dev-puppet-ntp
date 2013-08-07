@@ -1,0 +1,6 @@
+forge 'http://forge.puppetlabs.com'
+
+mod 'puppetlabs/stdblib'
+
+mod 'ntp',
+  :git => 'git://github.com/nvalentine-puppetlabs/puppet-ntp.git'
